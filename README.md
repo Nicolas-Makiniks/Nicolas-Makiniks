@@ -7,4 +7,5 @@
 I'll list my progress here while working in my evolution of my learn and codes and scripts, starting with the basics:
 <!-- Some day my profile will see like this one [Dalpat Rathore](https://github.com/DalpatRathore) -->
 - [Introduction to GitHub](https://github.com/Nicolas-Makiniks/Introduction-to-GitHub) is my first project to learn how to use Git.
-- [Communicate using Markdown](https://github.com/Nicolas-Makiniks/skills-communicate-using-markdown)
+- [Communicate using Markdown](https://github.com/Nicolas-Makiniks/skills-communicate-using-markdown) is about how to use .md files.
+- [Leaning GitHub Pages](https://github.com/Nicolas-Makiniks/skills-github-pages) is about how create static site and use Jelkyll.

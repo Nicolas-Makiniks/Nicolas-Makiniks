@@ -4,8 +4,13 @@
 
 > 🌱 Currently I'm starting in a new faculty of programming and thinking to make some games while I can get some job like programmer, data analyses or like.
 
-I'll list my progress here while working in my evolution of my learn and codes and scripts, starting with the basics:
+> Now I'm listing all my progress here, but in the future this page will be more interesting with more elements and visuals.
+
+I'll list my progress here while working in my evolution of my learn and codes and scripts, starting with the basics for my future needs to remember how it works in my way:
 <!-- Some day my profile will see like this one [Dalpat Rathore](https://github.com/DalpatRathore) -->
 - [Introduction to GitHub](https://github.com/Nicolas-Makiniks/Introduction-to-GitHub) is my first project to learn how to use Git.
 - [Communicate using Markdown](https://github.com/Nicolas-Makiniks/skills-communicate-using-markdown) is about how to use .md files.
 - [Leaning GitHub Pages](https://github.com/Nicolas-Makiniks/skills-github-pages) is about how create static site and use Jelkyll.
+
+Now I'm starting with the basics with HTML, CSS and JavaScript below even though I already know the basics of each:
+- [HTML Course](https://github.com/Nicolas-Makiniks/HTML-Course)

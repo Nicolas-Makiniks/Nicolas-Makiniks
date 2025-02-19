@@ -14,3 +14,4 @@ I'll list my progress here while working in my evolution of my learn and codes a
 
 Now I'm starting with the basics with HTML, CSS and JavaScript below even though I already know the basics of each:
 - [HTML Course](https://github.com/Nicolas-Makiniks/HTML-Course)
+- [CSS Course](https://github.com/Nicolas-Makiniks/CSS-Course)

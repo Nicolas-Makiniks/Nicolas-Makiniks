@@ -1,21 +1,7 @@
 # Hi there, I'm `Nicolas Makiniks`!
 
-<p>
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=Nicolas-Makiniks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-    />
-  
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Makiniks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Makiniks&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Makiniks&layout=compact)
 
 > 🖥️ I'm starting in the world of codes and trying to self learn while making my hobbies like coding, gaming and reviewing some work of people (nothing special).
 

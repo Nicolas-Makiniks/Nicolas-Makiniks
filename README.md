@@ -1,5 +1,8 @@
 # Hi there, I'm `Nicolas Makiniks`!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Makiniks&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Makiniks&layout=compact)
+
 > 🖥️ I'm starting in the world of codes and trying to self learn while making my hobbies like coding, gaming and reviewing some work of people (nothing special).
 
 > 🌱 Currently I'm starting in a new faculty of programming and thinking to make some games while I can get some job like programmer, data analyses or like.

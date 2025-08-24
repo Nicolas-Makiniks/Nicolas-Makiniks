@@ -30,20 +30,7 @@
 ###
 
 <div align = "center">
-  <!-- (url)(url)<img src = "https://skillicons.dev/icons?i=nodejs" height = "40" alt = "node.js logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=nestjs" height = "40" alt = "nest.js logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=react" height = "40" alt = "react logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=nextjs" height = "40" alt = "next.js logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=java" height = "40" alt = "java logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=spring" height = "40" alt = "spring logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=aws" height = "40" alt = "aws logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=python" height = "40" alt = "python logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=flask" height = "40" alt = "flask logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=c" height = "40" alt = "c logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=go" height = "40" alt = "go logo" /> -->
-  <img src = "https://skillicons.dev/icons?i=html" height = "40" alt = "html5 logo" />
-  <img src = "https://skillicons.dev/icons?i=css" height = "40" alt = "css3 logo" />
-  <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
+  <img src = "https://skillicons.dev/icons?i=html,css,js,java,c,cpp,godot,nodejs,php,py" height = "50" alt = "html5 logo" />
 </div>
 
 ###
@@ -53,17 +40,7 @@
 ###
 
 <div align = "center">
-  <img src = "https://skillicons.dev/icons?i=windows" height = "40" alt = "windows logo" />
-  <img src = "https://skillicons.dev/icons?i=vscode" height = "40" alt = "visual studio code logo" />
-  <!-- <img src = "https://skillicons.dev/icons?i=pycharm" height = "40" alt = "pycharm logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=clion" height = "40" alt = "clion logo" /> -->
-  <img src = "https://skillicons.dev/icons?i=github" height = "40" alt = "github logo" />
-  <!-- <img src = "https://skillicons.dev/icons?i=notion" height = "40" alt = "notion logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=obsidian" height = "40" alt = "obsidian logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=terraform" height = "40" alt = "terraform logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=kubernetes" height = "40" alt = "kubernetes logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=docker" height = "40" alt = "docker logo" /> -->
-  <!-- <img src = "https://skillicons.dev/icons?i=git" height = "40" alt = "git logo" /> -->
+  <img src = "https://skillicons.dev/icons?i=windows,vscode,github,git" height = "50" alt = "windows logo" />
 </div>
 
 ###

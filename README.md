@@ -30,7 +30,7 @@
 ###
 
 <div align = "center">
-  <img src = "https://skillicons.dev/icons?i=html,css,js,java,c,cpp,godot,nodejs,php,py" height = "50" alt = "html5 logo" />
+  <img src = "https://skillicons.dev/icons?i=html,css,js,c" height = "50" alt = "html5 logo" />
 </div>
 
 ###
@@ -40,7 +40,7 @@
 ###
 
 <div align = "center">
-  <img src = "https://skillicons.dev/icons?i=windows,vscode,github,git" height = "50" alt = "windows logo" />
+  <img src = "https://skillicons.dev/icons?i=windows,vscode,visualstudio,github,git" height = "50" alt = "windows logo" />
 </div>
 
 ###
